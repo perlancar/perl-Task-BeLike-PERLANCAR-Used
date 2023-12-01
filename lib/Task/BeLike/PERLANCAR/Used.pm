@@ -17,6 +17,10 @@ C<perlbrew install>):
  % cpanm -n App::cpanm::perlancar
  % cpanm-perlancar -n Task::BeLike::PERLANCAR::Used
 
+As of this writing (2023-12-01, version 20231201.0) the whole process takes
+about 135 minutes on my laptop, with some modules failing to install due to
+dependencies.
+
 
 =pkggroup Included modules
 
