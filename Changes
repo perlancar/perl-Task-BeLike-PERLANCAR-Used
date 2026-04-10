@@ -1,3 +1,9 @@
+20260410.1  2026-04-10  Released-By: PERLANCAR
+
+        - Update. Fix error in generated POD due to missing
+          Acme/CPANModules/PERLANCAR/Retired.pm.
+
+
 20260410.0  2026-04-10  Released-By: PERLANCAR
 
         - Update.
